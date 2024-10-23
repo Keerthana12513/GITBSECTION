@@ -1,5 +1,10 @@
 keerthana
 nandana
+<<<<<<< HEAD
 sree
 vishnu
 achu
+=======
+karnataka
+banglore
+>>>>>>> feature_branch
